@@ -178,3 +178,9 @@ abs {
 span.highlight {
   background-color: #ffffd0;
 }
+
+/* for hidden files */
+.hidden-files {
+  display: none;
+  visibility: hidden;
+}
